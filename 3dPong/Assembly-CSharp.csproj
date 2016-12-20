@@ -45,7 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GUI.cs" />
+     <Compile Include="Assets\Scripts\GameUI.cs" />
+     <Compile Include="Assets\Scripts\MainUI.cs" />
      <Compile Include="Assets\Scripts\PlayerMover.cs" />
      <Compile Include="Assets\Scripts\PongMover.cs" />
      <Compile Include="Assets\Scripts\PowerUp.cs" />
